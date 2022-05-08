@@ -3,7 +3,7 @@ using System;
 
 namespace EmployeeWages
 {
-    class CompanyEmpWage
+    class CompanyEmpWa
     {
         //Declaring Constant Variable
         public const int FULL_TIME = 1;
@@ -89,7 +89,7 @@ namespace EmployeeWages
         }
     }
 }
-
-
+    
+    
 
 
